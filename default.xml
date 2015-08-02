@@ -567,6 +567,7 @@
   <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="Euphoria-OS" revision="lollipop-5.1" />
+  <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="Euphoria-OS" revision="lollipop-5.1" />
 
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop-5.1" />
 
