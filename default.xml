@@ -56,9 +56,9 @@
   <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="device/sony/blue-common" name="LB-Blue/android_device_sony_blue-common" />
-  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
+  <project path="device/sony/common" name="LB-Blue/android_device_sony_common" />
   <project path="device/sony/hayabusa" name="LB-Blue/android_device_sony_hayabusa" />
-  <project path="device/sony/msm8960-common" name="CyanogenMod/android_device_sony_msm8960-common" />
+  <project path="device/sony/msm8960-common" name="LB-Blue/android_device_sony_msm8960-common" />
   <project path="device/sony/tsubasa" name="LB-Blue/android_device_sony_tsubasa" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
